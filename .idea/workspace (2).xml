@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf7543e3-fa2f-439e-b24c-5342605a1fb6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2L5JBJG6czg1T3nXmj9dTBtuMSr" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/myWork/SKSE/src",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myWork\hilbert-curve-master\src" />
+      <recent name="D:\myWork\hilbert-curve-master" />
+      <recent name="D:\myWork\hilbert-curve-master\src\utils" />
+      <recent name="D:\myWork\hilbert-curve-master\src\utils\HVE" />
+      <recent name="D:\myWork\hilbert-curve-master\src\main\utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myWork\hilbert-curve-master" />
+      <recent name="D:\myWork\hilbert-curve-master\src\main\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HILBERT.davidmoten.hilbert.Test">
+    <configuration name="HILBERT.davidmoten.hilbert.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HILBERT.davidmoten.hilbert.Test" />
+      <module name="SKSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HILBERT.davidmoten.hilbert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SHVE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HVE.monash.crypto.hve.SHVE" />
+      <module name="SKSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HVE.monash.crypto.hve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.hilbert.Test" />
+      <module name="SKSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.hilbert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.davidmoten.hilbert.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.davidmoten.hilbert.Test" />
+      <module name="SKSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.davidmoten.hilbert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HILBERT.davidmoten.hilbert.Test" />
+        <item itemvalue="Application.SHVE" />
+        <item itemvalue="Application.org.davidmoten.hilbert.Test" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf7543e3-fa2f-439e-b24c-5342605a1fb6" name="Changes" comment="" />
+      <created>1675154873072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675154873072</updated>
+      <workItem from="1675154874203" duration="3361000" />
+      <workItem from="1675162103145" duration="23000" />
+      <workItem from="1675162382499" duration="1070000" />
+      <workItem from="1675163483860" duration="615000" />
+      <workItem from="1675164131092" duration="135000" />
+      <workItem from="1675170163458" duration="6000" />
+      <workItem from="1675172483374" duration="2000" />
+      <workItem from="1675226085962" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
